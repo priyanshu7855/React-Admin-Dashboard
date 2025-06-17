@@ -37,7 +37,7 @@ A modern, feature-rich React admin dashboard built with TypeScript, Tailwind CSS
 
 1. **Clone the repository**
    ```bash
-   [git clone https://github.com/yourusername/adminpro-dashboard.git](https://github.com/priyanshu7855/React-Admin-Dashboard)
+   [](https://github.com/priyanshu7855/React-Admin-Dashboard)
    cd React-Admin-Dashboard
    ```
 
