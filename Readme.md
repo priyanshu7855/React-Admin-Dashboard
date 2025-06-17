@@ -2,7 +2,12 @@
 
 A modern, feature-rich React admin dashboard built with TypeScript, Tailwind CSS, and Vite. This production-ready application provides a comprehensive suite of administrative tools with a beautiful, responsive design and smooth user experience.
 
-![AdminPro Dashboard](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
+![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
+![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
+![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
+![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
+![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
 
 ## ✨ Features
 
