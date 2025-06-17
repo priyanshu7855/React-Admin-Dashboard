@@ -2,12 +2,12 @@
 
 A modern, feature-rich React admin dashboard built with TypeScript, Tailwind CSS, and Vite. This production-ready application provides a comprehensive suite of administrative tools with a beautiful, responsive design and smooth user experience.
 
-![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
-![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
-![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
-![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
-![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
-![AdminPro Dashboard]([https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true))
+![AdminPro Dashboard](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot1.png?raw=true)
+![AdminPro User Managment](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot2.png?raw=true)
+![AdminPro Calendar with meetings and tasks](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot3.png?raw=true)
+![AdminPro Kanban Board](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot4.png?raw=true)
+![AdminPro Analytics](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot5.png?raw=true)
+![AdminPro Dark Theme](https://github.com/priyanshu7855/React-Admin-Dashboard/blob/main/Screenshot6.png?raw=true)
 
 ## ✨ Features
 
